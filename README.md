@@ -1,1 +1,1 @@
-# ATM
+# ATM-- This ATM Simulation Project is developed using Java and mimics real-world ATM functionalities such as balance inquiry, cash deposit, cash withdrawal, and PIN authentication. The project uses object-oriented programming principles, exception handling, and file handling to manage user data and transactions securely, offering a simple yet effective representation of banking operations through a console-based interface.
